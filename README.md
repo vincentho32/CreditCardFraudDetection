@@ -1,4 +1,4 @@
-# Portrait Paintings
+# Generate portrait paintings using GAN (Generative Adversarial Network)
 
 <img src='gif/portrait.gif' width="1000" height="500">
 
